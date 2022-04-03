@@ -6,6 +6,8 @@
 
 ## Available Scripts
 
+# play it yourself on https://tenzies69.herokuapp.com/ 
+
 In the project directory, you can run:
 
 ### `npm start`
