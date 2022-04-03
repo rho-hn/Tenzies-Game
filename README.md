@@ -1,5 +1,5 @@
 
-![](public/thumbnail.png)
+![](public/thumbnail.PNG)
 ## Available Scripts
 
 In the project directory, you can run:
