@@ -1,5 +1,9 @@
 
-![](public/thumbnail.PNG)
+## At the beginning of the game
+![](public/capture1.PNG)
+# when a player succesfully wins
+![](public/capture2.PNG)
+
 ## Available Scripts
 
 In the project directory, you can run:
