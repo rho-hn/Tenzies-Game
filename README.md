@@ -1,8 +1,8 @@
 
 ## At the beginning of the game
-![](public/capture1.PNG)
-# when a player succesfully wins
-![](public/capture2.PNG)
+![](public/Capture1.PNG)
+## when a player succesfully wins
+![](public/Capture2.PNG)
 
 ## Available Scripts
 
